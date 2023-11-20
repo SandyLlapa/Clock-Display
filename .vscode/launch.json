@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sandyllapa/Desktop/Sophmore yr./csci2021/p2-code 2",
+      "program": "/Users/sandyllapa/Desktop/Sophmore yr./csci2021/p2-code 2/build/Debug/outDebug"
+    }
+  ]
+}
